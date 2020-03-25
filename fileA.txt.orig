@@ -10,5 +10,8 @@ feature1
 =======
 feature 1 with 1 bug feature2 wip
 feature 1
+<<<<<<< HEAD
 >>>>>>> hotfix1
-feature 1 with 1 bug feature 2 wip
+=======
+>>>>>>> hotfix1
+feature1
